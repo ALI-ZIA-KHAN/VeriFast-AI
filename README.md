@@ -1,3 +1,6 @@
+Want to try?
+
+Here you go : https://huggingface.co/spaces/AliZK02/Loan_Analyzer
 ---
 title: Loan Analyzer
 emoji: 🔥
